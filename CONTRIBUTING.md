@@ -14,4 +14,3 @@
 5. 将新分支推送到您的 Github 仓库：`git push origin <branch-name>:<remote-branch-name>`
 6. 在您的 Github 仓库中发起一个 Pull Request
 7. 必要时可以到本项目仓库创建一个 [issue](https://github.com/JinsYin/knowledge-base/issues/new) 来描述此次 PR
-
